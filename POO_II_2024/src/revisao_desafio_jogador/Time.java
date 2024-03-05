@@ -1,10 +1,11 @@
 package revisao_desafio_jogador;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class Time {
 	private String nome;
-	private List<Jogador> jogadores;
+	private List<Jogador> jogadores = new ArrayList<>();
 	
 	public Time() {
 		setNome("");
@@ -37,7 +38,7 @@ public class Time {
 		return getNome() + " (" + getJogadores().size() + ")";
 	}
 	
-	public String getListaJogadores() {
+	public String listaJogadores() {
 		String listaJogadores = "";
 		for (Jogador jogador : jogadores) {
 			listaJogadores += jogador + "\n";

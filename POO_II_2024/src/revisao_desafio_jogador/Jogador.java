@@ -44,6 +44,6 @@ public class Jogador {
 
 	@Override
 	public String toString() {
-		return "Jogador [nome=" + nome + ", numeroCamisa=" + numeroCamisa + ", gols=" + gols + "]";
+		return "Jogador [nome=" + nome + ", camisa=" + numeroCamisa + ", gols=" + gols + "]";
 	}
 }
