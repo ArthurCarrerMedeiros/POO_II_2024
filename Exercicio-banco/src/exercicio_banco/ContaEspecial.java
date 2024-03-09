@@ -1,24 +1,28 @@
 package exercicio_banco;
 
 public class ContaEspecial extends ContaBancaria {
-	private double limiteSaldoConta;
+	private double limiteNegativo;
 	
 	public ContaEspecial() {
 	}
 	
-	public ContaEspecial(int numeroConta, double saldo, int limiteSaldoConta) {
+	public ContaEspecial(int numeroConta, double saldo, double limiteNegativo) {
         super(numeroConta, saldo);
-        this.limiteSaldoConta = limiteSaldoConta;
-	}
-	
-	public ContaEspecial(double limiteSaldoConta) {
-		this.limiteSaldoConta = limiteSaldoConta;
+        this.limiteNegativo = limiteNegativo;
 	}
 
 	@Override
 	public void saque(double valor) {
-		if(saldo + limiteSaldoConta <= valor) {
+		if(valor <= saldo + limiteNegativo) {
 			saldo -= valor;
 		}
+	}
+
+	public double getLimiteNegativo() {
+		return limiteNegativo;
+	}
+
+	public void setLimiteSaldoConta(double limiteNegativo) {
+		this.limiteNegativo = limiteNegativo;
 	}
 }

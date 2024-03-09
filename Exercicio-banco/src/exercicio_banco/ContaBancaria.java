@@ -22,6 +22,7 @@ public class ContaBancaria {
 	
 	public void transferir(ContaBancaria contaDestino, double valor) {
 		double total = contaDestino.getSaldo() + valor;
+		setSaldo(this.getSaldo() - valor);
 		contaDestino.setSaldo(total);
 	}
 

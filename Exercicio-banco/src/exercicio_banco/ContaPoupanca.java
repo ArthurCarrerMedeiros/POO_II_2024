@@ -25,4 +25,12 @@ public class ContaPoupanca extends ContaBancaria {
 			limiteOperacoes--;
 		}
 	}
+
+	public int getLimiteOperacoes() {
+		return limiteOperacoes;
+	}
+
+	public void setLimiteOperacoes(int limiteOperacoes) {
+		this.limiteOperacoes = limiteOperacoes;
+	}
 }
