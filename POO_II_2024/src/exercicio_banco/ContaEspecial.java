@@ -25,4 +25,9 @@ public class ContaEspecial extends ContaBancaria {
 	public void setLimiteSaldoConta(double limiteNegativo) {
 		this.limiteNegativo = limiteNegativo;
 	}
+
+	@Override
+	public String toString() {	
+		return "ContaEspecial [limiteNegativo=" + limiteNegativo + "]";
+	}
 }
