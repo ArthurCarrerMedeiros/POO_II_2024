@@ -1,0 +1,50 @@
+    A Lua é o maior satélite natural da Terra. Falso
+    O sol gira em torno da Terra. Falso
+    A água pura conduz eletricidade. Falso
+    O Japão é um país insular. Verdadeiro
+    O oxigênio é o elemento mais abundante na crosta terrestre. Falso
+    O diamante é o mineral mais duro conhecido pelo homem. Verdadeiro
+    A Antártica é o continente mais frio da Terra. Verdadeiro
+    O equador divide a Terra em hemisférios leste e oeste. Verdadeiro
+    A eletricidade é uma forma de energia renovável. Verdadeiro
+    O ácido clorídrico é uma base forte. Falso
+    A gravidade da Lua é aproximadamente um sexto da gravidade da Terra. Verdadeiro
+    As plantas realizam a fotossíntese apenas durante o dia. Falso
+    A energia geotérmica é gerada pelo calor do núcleo da Terra. Verdadeiro
+    A vespa é um tipo de abelha. Falso
+    O sistema solar possui apenas um planeta com anéis. Falso
+    O ferro é um elemento essencial para o corpo humano. Verdadeiro
+    O lítio é um metal líquido à temperatura ambiente. Falso
+    O diamante é feito principalmente de carbono. Verdadeiro
+    O zero absoluto é a temperatura mais alta possível. Falso
+    A velocidade da luz é variável dependendo do meio em que se propaga. Falso
+        O Brasil é o maior país da América do Sul. Verdadeiro
+    O ácido clorídrico é uma substância corrosiva. Verdadeiro
+    A lua cheia ocorre aproximadamente a cada duas semanas. Verdadeiro
+    O leite é uma fonte natural de vitamina C. Falso
+    O Sol é uma estrela anã branca. Falso
+    O tungstênio é o metal com o ponto de fusão mais baixo. Falso
+    O frango é uma carne vermelha. Falso
+    O elemento químico mais leve é o hidrogênio. Verdadeiro
+    O dióxido de carbono é uma substância inflamável. Falso
+    A Grande Muralha da China é visível da Lua. Falso
+    A fusão nuclear é o processo de energia que ocorre no Sol. Verdadeiro
+    O oceano Atlântico é o maior oceano do mundo. Falso
+    A Terra é o único planeta do sistema solar que tem água líquida em sua superfície. Verdadeiro
+    O níquel é mais magnético que o ferro. Falso
+    O ácido acético é o principal componente do vinagre. Verdadeiro
+    O ouro é um metal pesado. Falso
+    O pinguim é uma ave que voa. Falso
+    O álcool é considerado uma droga depressora do sistema nervoso central. Verdadeiro
+    O planeta Marte é o mais próximo da Terra. Falso
+    O enxofre é um gás incolor. Falso
+    A energia solar é uma fonte renovável. Verdadeiro
+    O algodão é uma fibra sintética. Falso
+    O planeta Vênus é conhecido como o "planeta vermelho". Falso
+    O gás hélio é mais denso que o ar. Falso
+    O tigre é o maior felino do mundo. Verdadeiro
+    A convecção é uma forma de transferência de calor que ocorre apenas em líquidos. Falso
+    O ácido sulfúrico é um ácido fraco. Falso
+    A penicilina é um tipo de antibiótico. Verdadeiro
+    O planeta Urano é o maior do sistema solar. Falso
+    O oxigênio é essencial para a combustão. Verdadeiro
