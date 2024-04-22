@@ -1,14 +1,17 @@
 package banco_de_dados;
 
+import java.io.FileInputStream;
 import java.sql.Connection;
 import java.sql.DriverManager;
+import java.util.Properties;
 
 public class Conexao {
 	public static Connection conectaMySql() {
 		Connection conn = null;
 		try {
-			Class.forName("com.mysql.jdbc.Driver");
-			conn = DriverManager.getConnection("jdbc:mysql://localhost/poo", "root", "root");
+			Properties props = new Properties();
+			props.load(new FileInputStream("db.properties"));
+			conn = DriverManager.getConnection(props.getProperty("url"), props);
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
